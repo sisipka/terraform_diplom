@@ -26,3 +26,12 @@
   <img src="./pic/apply.png">
 </p>
 
+3. Terraform plan запускается при коммите в main ветке:
+
+<p align="left">
+  <img src="./pic/commit.png">
+</p>
+
+<p align="left">
+  <img src="./pic/commit2.png">
+</p>
