@@ -35,3 +35,17 @@
 <p align="left">
   <img src="./pic/commit2.png">
 </p>
+
+4. Terraform plan запускается при PR в main ветке:
+
+<p align="left">
+  <img src="./pic/pr.png">
+</p>
+
+<p align="left">
+  <img src="./pic/pr2.png">
+</p>
+
+<p align="left">
+  <img src="./pic/pr3.png">
+</p>
