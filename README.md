@@ -49,3 +49,13 @@
 <p align="left">
   <img src="./pic/pr3.png">
 </p>
+
+5. Terraform destroy:
+
+<p align="left">
+  <img src="./pic/destroy.png">
+</p>
+
+<p align="left">
+  <img src="./pic/destroy2.png">
+</p>
